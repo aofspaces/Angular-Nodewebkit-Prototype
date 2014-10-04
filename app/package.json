@@ -1,0 +1,31 @@
+{
+	"name": "Prototype",
+	"version": "1.0.0",
+	"description": "Prototype a angular with node-webkit builder",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Prototype",
+		"Node-webkit",
+		"builder",
+		"angular"
+	],
+	"author": "Alongkorn Iem-o-pas",
+	"license": "MIT",
+	"window": {
+		"title": "Prototype angular + node-webkit builder",
+		"icon": "",
+		"toolbar": true,
+		"frame": true,
+		"position": "center",
+		"width": 1280,
+		"height": 768,
+		"min_width": 1280,
+		"min_height": 768,
+		"resizable": true,
+		"always-on-top": false,
+		"fullscreen": false
+	}
+}
