@@ -1,7 +1,7 @@
 {
-	"name": "Prototype",
+	"name": "app",
 	"version": "1.0.0",
-	"description": "Prototype a angular with node-webkit builder",
+	"description": "create an application use angular with node-webkit builder",
 	"main": "index.html",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
